@@ -13,7 +13,7 @@ body {
 header {
     height: 140px;
     text-align: center;
-    background-color: black;
+    background-color: #23272A;
     padding-bottom: 20px;
     box-shadow: 6px 12px 5px #2C2F33;
     margin-left: 100px;
@@ -33,9 +33,25 @@ header h2 {
 
 .content {
     font-family: 'PT Serif', serif;
-    background-color: black;
+    background-color: #23272A;
     margin: 100px;
+    box-shadow: 6px 12px 5px #2C2F33;
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 20px
 
+}
+.content > h1 {
+    font-family: 'Didact Gothic', sans-serif;
+    color: whitesmoke;
+}
+
+.content > ul {
+    text-align: left;
+    color: whitesmoke;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
