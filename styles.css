@@ -16,6 +16,8 @@ header {
     background-color: black;
     padding-bottom: 20px;
     box-shadow: 6px 12px 5px #2C2F33;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .name {
@@ -31,6 +33,8 @@ header h2 {
 
 .content {
     font-family: 'PT Serif', serif;
+    background-color: black;
+    margin: 100px;
 
 }
 
