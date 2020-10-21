@@ -1,0 +1,39 @@
+
+/* font-family: 'Didact Gothic', sans-serif;
+font-family: 'PT Serif', serif;
+*/
+
+body {
+    font-family: 'PT Serif', serif;
+    background-image: url(images/background/y-so-serious.png);
+    background-repeat: repeat;
+
+}
+
+header {
+    height: 140px;
+    text-align: center;
+    background-color: black;
+    padding-bottom: 20px;
+    box-shadow: 6px 12px 5px #2C2F33;
+}
+
+.name {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 73px;
+    color: whitesmoke;
+}
+
+header h2 {
+    font-family: 'Didact Gothic', sans-serif;
+    color: whitesmoke;
+}
+
+.content {
+    font-family: 'PT Serif', serif;
+
+}
+
+footer {
+    font-family: 'PT Serif', serif;
+}
