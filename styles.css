@@ -3,9 +3,10 @@
 font-family: 'PT Serif', serif;
 */
 
+/* General Styles */
 body {
     font-family: 'PT Serif', serif;
-    background-image: url(images/background/y-so-serious.png);
+    background: url(images/background/y-so-serious.png);
     background-repeat: repeat;
 
 }
@@ -13,7 +14,7 @@ body {
 header {
     height: 140px;
     text-align: center;
-    background-color: #23272A;
+    background: #23272A;
     padding-bottom: 20px;
     box-shadow: 6px 12px 5px #2C2F33;
     margin-left: auto;
@@ -32,9 +33,11 @@ header h2 {
     color: whitesmoke;
 }
 
+/* All of this is the body of the page, mostly using child selectors in the Content Div */
+
 .content {
     font-family: 'PT Serif', serif;
-    background-color: #23272A;
+    background: #23272A;
     width: 750px;
     margin-top: 100px;
     margin-left: auto;
@@ -92,6 +95,8 @@ header h2 {
     margin: 40px
 }
 
+
+/* Stylizing Links */
 a {
 	font-weight: 700;
 	text-decoration: none;	
@@ -104,11 +109,14 @@ a:hover {
 	text-decoration: underline;	
 }
 
+
+/* Footer */
+
 footer {
     font-family: 'Didact Gothic', sans-serif;
     height: 40px;
     text-align: center;
-    background-color: #23272A;
+    background: #23272A;
     padding-bottom: 10px;
     box-shadow: 6px 12px 5px #2C2F33;
     margin-left: auto;
