@@ -51,7 +51,25 @@ header h2 {
     color: whitesmoke;
 }
 
+.content > h2 {
+    font-family: 'Didact Gothic', sans-serif;
+    color: whitesmoke;
+}
+
+.content > h3 {
+    font-family: 'Didact Gothic', sans-serif;
+    color: whitesmoke;
+}
+
 .content > ul {
+    text-align: left;
+    color: whitesmoke;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content > ol {
     text-align: left;
     color: whitesmoke;
     width: 400px;
@@ -70,6 +88,10 @@ header h2 {
     margin-right: auto;    
 }
 
+.content > hr {
+    margin: 40px
+}
+
 a {
 	font-weight: 700;
 	text-decoration: none;	
@@ -83,16 +105,17 @@ a:hover {
 }
 
 footer {
-    font-family: 'PT Serif', serif;
-    height: 140px;
+    font-family: 'Didact Gothic', sans-serif;
+    height: 40px;
     text-align: center;
     background-color: #23272A;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     box-shadow: 6px 12px 5px #2C2F33;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
     width: 750px;
+    color: whitesmoke
     
 }
