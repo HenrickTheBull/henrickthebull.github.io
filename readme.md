@@ -1,5 +1,9 @@
 # Bryant's Portfolio Website
 
+This branch for rewriting site in Flexbox and redesigning.
+
+### Old Requirements
+```
 Written for Thinkful Code Bootcamp in HTML and CSS.
 
 ## Content requirements
@@ -38,4 +42,4 @@ Semantic containers like `main`, `article`, and `footer`
 
 Styled links using pseudo-classes
 
-Comments throughout your HTML and CSS that explain your code.
+Comments throughout your HTML and CSS that explain your code.```
